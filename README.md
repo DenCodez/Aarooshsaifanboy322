@@ -2,3 +2,4 @@ Hello guys! I am Aarooshsaifanboy! I am just a regular boy who codes all day (Py
 I am currently learning C#!! I will be a C# coder also!!
 
 So yeah, that's kinda about me.
+I am also looking for a contributer.
