@@ -9,3 +9,6 @@ MY CODING LANGUAGES:
 2. HTML5
 3. CSS (Beginner)
 4. JS (Also beginner)
+
+# Other
+**Note:** When you open one of my website, it says, 'Dangerous Site'. None of my websites are dangerous, Chrome, Firefox etc. thinks that this is a dangerous website. Just turn off protection then open website. It is not dangerous.
