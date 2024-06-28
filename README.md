@@ -1,5 +1,5 @@
-Hello guys! I am Aarooshsaifanboy! I am just a regular boy who codes all day (Python and HTML). I am a Roblox fan and Roblox DOORS fan.
-I am currently learning C#!! I will be a C# coder also!! I code all day and I am always online on Roblox. I will accept your friend request!
+Hello guys! I am SaifanCodez! I am just a regular boy who codes all day (Python and HTML). I am a Roblox fan and Roblox DOORS fan.
+I am currently learning C#!! I will be a C# coder also!! I code all day.
 
 So yeah, that's kinda about me.
 I am also looking for a contributer.
