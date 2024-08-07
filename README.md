@@ -1,5 +1,5 @@
 # About
-Hello guys! I am SaifanCodez! I am just a regular boy who codes all day (Python and HTML). I am a Roblox fan and Roblox DOORS fan.
+Hello guys! I am SaifanCodez! I am just a regular boy who codes all day (Python and HTML). I am a Roblox fan and **HUGE** Roblox DOORS fan.
 I am currently learning C#!! I will be a C# coder also!! I code all day.
 
 ## Roblox
