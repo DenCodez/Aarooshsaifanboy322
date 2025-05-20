@@ -1,9 +1,9 @@
 # About
-Hello guys! I am SaifanCodez! I am just a regular boy who codes all day (Python and HTML). I am a Roblox fan and **HUGE** Roblox DOORS fan.
+Hello guys! I am DenCodez! I am just a regular boy who codes all day (Python and HTML). I am a Roblox fan and **HUGE** Roblox DOORS fan.
 I am currently learning C#!! I will be a C# coder also!! I code all day.
 
 ## Roblox
-Well, my roblox username is "Den21NULL142". Follow and friend me there! I am always active.
+Well, my roblox username is "Den21NULL142". Follow and friend me there! I am always active (cap).
 
 -----------------------------------------------
 
@@ -11,7 +11,7 @@ So yeah, that's kinda about me.
 I am also looking for a contributer.
 
 MY CODING LANGUAGES:
-1. Python 3
+1. Python 3 (Intermediate)
 2. HTML5
 3. CSS (Beginner)
 4. JS (Also beginner)
